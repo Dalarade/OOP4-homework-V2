@@ -43,6 +43,7 @@ class Reviewer(Mentor):
             return 'Ошибка'
 
 
+# ---- ДЕМОНСТРАЦИЯ (с примерами ошибок) ----
 student = Student('Алёхина', 'Ольга', 'Ж')
 student.courses_in_progress += ['Python', 'Java']
 
